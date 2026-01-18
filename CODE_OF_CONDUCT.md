@@ -78,8 +78,8 @@ decisions when appropriate.
 If you experience or witness unacceptable behavior, or have any other concerns,
 please report it by contacting the project team at:
 
-**📧 Email:** conduct@mixos-go.dev  
-**🔒 Confidential:** All reports will be kept confidential
+**Email:** conduct@mixos-go.dev  
+**Confidential:** All reports will be kept confidential
 
 In your report, please include:
 
@@ -202,14 +202,16 @@ Community Impact Guidelines were inspired by
 
 For questions about this Code of Conduct, please contact:
 
-**📧 General Inquiries:** conduct@mixos-go.dev  
-**🔒 Report Violations:** conduct@mixos-go.dev 
+**📧 General Inquiries:** conduct@mixos-go.dev
+
+**🔒 Report Violations:** conduct@mixos-go.dev
+
 **⚖️ Appeals:** appeals@mixos-go.dev
 
 ## Amendments
 
 This Code of Conduct may be revised at any time. The current version is always
-available at: https://github.com//mixlauncher/blob/main/CODE_OF_CONDUCT.md
+available at: [Code Of conduct](https://github.com//mixlauncher/blob/main/CODE_OF_CONDUCT.md)
 
 Material changes will be announced to the community via:
 - GitHub Discussions
